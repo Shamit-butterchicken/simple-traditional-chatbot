@@ -20,6 +20,6 @@ User Input → Intent Detection → Response Mapping → Output
 Run chatbot.py using Python 3.8 or higher.
 
 ## Author
-Your Name
-Course Name
-Date
+Shamit
+AI and HCI
+14th February

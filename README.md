@@ -21,5 +21,4 @@ Run chatbot.py using Python 3.8 or higher.
 
 ## Author
 Shamit
-AI and HCI
-14th February
+
